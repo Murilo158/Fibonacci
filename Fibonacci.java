@@ -4,7 +4,7 @@ public class Fibonacci {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int n = 10; // Altere esse valor para o número de termos desejados
+		 int n = 10; 
 	        System.out.println("Sequência de Fibonacci com " + n + " termos:");
 	        for (int i = 0; i < n; i++) {
 	            System.out.print(fibonacci(i) + " ");
